@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/saihilgurupersad/Desktop/C#/ToyStore/ToyStore.csproj",
+      "projectUniqueName": "/Users/saihilgurupersad/Desktop/Fleet/ToyStore/ToyStore/ToyStore.csproj",
       "projectName": "ToyStore",
-      "projectPath": "/Users/saihilgurupersad/Desktop/C#/ToyStore/ToyStore.csproj",
+      "projectPath": "/Users/saihilgurupersad/Desktop/Fleet/ToyStore/ToyStore/ToyStore.csproj",
       "packagesPath": "/Users/saihilgurupersad/.nuget/packages/",
-      "outputPath": "/Users/saihilgurupersad/Desktop/C#/ToyStore/obj/",
+      "outputPath": "/Users/saihilgurupersad/Desktop/Fleet/ToyStore/ToyStore/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/saihilgurupersad/.nuget/NuGet/NuGet.Config"

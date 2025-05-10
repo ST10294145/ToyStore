@@ -5,7 +5,7 @@ using System;
     {
         static void Main(string[] args)
         {
-            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.ForegroundColor = ConsoleColor.Blue; // Set the text color to blue
             Console.WriteLine("Hello, what is your name?");
             string customerName = Console.ReadLine();
             Console.WriteLine(customerName + "...That is a nice name!");

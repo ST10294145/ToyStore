@@ -17,8 +17,8 @@ class Toys
         toyList.Add("Nerf Gun");
         toyList.Add("Hotwheel");
         toyList.Add("Lego");
-        toyList.Add("Playstation 5");
-        toyList.Add("Barbie Doll");
+        toyList.Add("Playstation 5"); // Add a gaming console
+        toyList.Add("Barbie Doll"); //TODO 
         toyList.Add("Remote Control Car");
         toyList.Add("Board Game");
         toyList.Add("Teddy Bear");
